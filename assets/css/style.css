@@ -458,13 +458,14 @@ background-attachment: fixed;
 color:#fff;
 
 }
-    #testimonial-main  .overlay {
+#testimonial-main  .overlay {
        padding-top: 60px;
-background: rgba(0, 0, 0, 0.80);
-min-height: 400px;
+       background: rgba(0, 0, 0, 0.80);
+       min-height: 400px;
     }
     #testimonial-main h4 {
         line-height:40px;
+        height: 344px;
 
     }
     #testimonial-main i {
@@ -586,6 +587,9 @@ color:#fff;
 #footer-sec i{
     color: rgb(255, 15, 101);
     margin-right:10px;
+}
+#footer-sec{
+  width: 83.3333333%;
 }
  /*=====================================
   SCROLLUP STYLES 
